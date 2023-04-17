@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to 웹 화면 구현!
+    text: 서요한
     button: Tell Me More
     buttonlink: "#services"
 
